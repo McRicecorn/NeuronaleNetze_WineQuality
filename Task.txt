@@ -1,0 +1,33 @@
+2. Load Data: (see examples below) and describe in detail their origin, content, structures and data types.
+-done
+
+
+3.  Data Exploration: Prepare statistical and visual data summaries. 
+    How many variables/features does the data contain, how many samples? Are there missing values? Explore correlations among variables and conduct at least one unsupervised analysis. Consider variable transformations and normalizations where applicable.
+
+4.  Data Model: Define what you want to model (following the table below) and choose an appropriate model framework. 
+    Define a simple baseline model and a loss function - theoretically and practically. 
+    Explain the model in terms of input-output data structures and dimensions.
+
+5.  Train Model: Define a Train Define Train and Test Data and run the training loop. Monitor the behaviour of the loss function.
+
+6.  Evaluate Model: Run model predictions on the test data set. 
+    Calculate and visualize the appropriate metrics to evaluate model performance. 
+    Explain why a separate test data set should be used for such evaluations.
+
+7. Improve Model: Suggest extensions to your baseline model and repeat steps 4. - 6. Do these extensions improve the model?
+
+Summary
+Provide a concise summary and critical reflection of this project and all analysis steps. 
+What are the assumptions and limits? 
+Document and annotate all steps above carefully in a single jupyter notebook and ensure that it will execute reproducibly and without error. 
+Upon completion, submit the project as a single notebook per team. This notebook will be the basis for your presentation and it will be shared with the whole class.
+
+Include a statement of originality and contributions at the beginning:
+Authors: X.Y., A.I.
+
+This notebook is our own work. Any other sources have been clearly marked and cited.
+
+All authors contributed equally. (alternative: state specific contributions explicitly)
+
+- Taregt data: project1.1(wine data): wine quality
