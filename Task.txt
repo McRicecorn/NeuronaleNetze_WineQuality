@@ -1,9 +1,12 @@
 2. Load Data: (see examples below) and describe in detail their origin, content, structures and data types.
--done
+                                                                                                done
 
 
-3.  Data Exploration: Prepare statistical and visual data summaries. 
-    How many variables/features does the data contain, how many samples? Are there missing values? Explore correlations among variables and conduct at least one unsupervised analysis. Consider variable transformations and normalizations where applicable.
+3.  Data Exploration: Prepare statistical and visual data summaries.                            done
+    How many variables/features does the data contain, how many samples?                        done 
+    Are there missing values?                                                                   done
+    Explore correlations among variables and conduct at least one unsupervised analysis.        (done)
+    Consider variable transformations and normalizations where applicable.
 
 4.  Data Model: Define what you want to model (following the table below) and choose an appropriate model framework. 
     Define a simple baseline model and a loss function - theoretically and practically. 
@@ -31,3 +34,5 @@ This notebook is our own work. Any other sources have been clearly marked and ci
 All authors contributed equally. (alternative: state specific contributions explicitly)
 
 - Taregt data: project1.1(wine data): wine quality
+
+
