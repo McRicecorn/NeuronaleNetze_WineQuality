@@ -1,40 +1,23 @@
-[Description of Data]
-- origin 
-- content : features & target, rows, data type
+Duc: 
+anfang - log trans
 
-[Data Exploration]
-- Statistical summary
-- visual summary
+Cathy:
+log trans 
+normalisation
 
-- drop duplicates
-- graph comparing  df vs df_noDuplicates 
-- visual summary of df_noDuplicates
+Duc:
+correlation quality
 
-- Log Transform every suitable feature
-- graph comparing df_noDuplicates before and after log transformation
-- Statistical comparing df_noDuplicates before and after log transformation
-- overlapping graph comparing df_noDuplicates before and after log transformation
- (keeping both graphs or deleting one)
-- displaying Statistical the relevant features
+Cathy:
+unsupervised clustering
 
-- transforming data and storing in data_transformed
+Duc:
+basic Model
 
-- normalizing ---- look at it. Falsch initialisiert/unterschiedlich(?)
+Cathy:
+multi-variate
+multinom
 
-
-- Correlation between all features - heatmap
-- Statistical view Correlation between all feature to quality
-- visualisation view Correlation between all feature to quality x2
-
-
-- unsupervised Clustering
-- kmeans visualized with all features
-- PCA to visualise kmeans
-- cluster visualised & heatmap
-- crosstab of cluster
-
-
-[Data Model]
-[Train Model]
-- mit x_basic_tr & y_basic_tr trainiert
-- nutzt loss_func_MSE, optimizer_SGD
+Duc:
+neurol network
+conclusion
